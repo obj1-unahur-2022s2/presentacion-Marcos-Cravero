@@ -1,7 +1,10 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/PERFIL.jpg)
 
 Bienvenidos a
 # Programación con objetos I
+## Me llamo **Marcos Cravero**, y soy estudiante de la Universidad Nacional de Hurlingham hace ya más de un año.
+Me gusta mucho la tecnología, de hecho, estoy siguiendo la carrera de Informática.
+
 
 En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
